@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Hazza",
+    "umur": 26,
+    "nip": "09213214",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "A",
+      "pembimbing2": "B"
+    }
+  },
+  {
+    "nama": "Hazza",
+    "umur": 26,
+    "nip": "09213214",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "A",
+      "pembimbing2": "B"
+    }
+  }
+]
